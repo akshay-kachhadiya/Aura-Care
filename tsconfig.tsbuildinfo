@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/inquirymodal.tsx","./src/components/invoicecenter.tsx","./src/components/modal.tsx","./src/components/operations.tsx","./src/components/partners.tsx","./src/components/patientportal.tsx","./src/lib/data.test.ts","./src/lib/data.ts","./src/state/carecontext.tsx","./vite.config.ts"],"version":"5.7.3"}
